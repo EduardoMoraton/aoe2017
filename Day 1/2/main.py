@@ -1,5 +1,5 @@
 import itertools
-file_path = '../input.txt'
+file_path = '../iput.txt'
 
 
 data = ""
