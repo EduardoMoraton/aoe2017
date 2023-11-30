@@ -20,7 +20,7 @@ for d in data:
     d_int = [int(i) for i in d]
     checksum += sum_of_evenly(d_int)
     
-
+d
 
 
 print(int(checksum))  
